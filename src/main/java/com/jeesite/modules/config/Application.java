@@ -22,6 +22,8 @@ public class Application extends SpringBootServletInitializer {
 
 		SpringApplication app = new SpringApplication(Application.class);
 		app.setDefaultProperties(PropertiesUtils.getInstance().getProperties());
+
+
 		app.run(args);
 	}
 
