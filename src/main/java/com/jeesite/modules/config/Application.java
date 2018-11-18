@@ -19,6 +19,7 @@ import com.jeesite.common.io.PropertiesUtils;
 public class Application extends SpringBootServletInitializer {
 	
 	public static void main(String[] args) {
+
 		SpringApplication app = new SpringApplication(Application.class);
 		app.setDefaultProperties(PropertiesUtils.getInstance().getProperties());
 		app.run(args);
