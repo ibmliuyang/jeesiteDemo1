@@ -24,7 +24,8 @@ public class Application extends SpringBootServletInitializer {
 		app.setDefaultProperties(PropertiesUtils.getInstance().getProperties());
 		app.run(args);
 	}
-	
+
+
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
 		this.setRegisterErrorPageFilter(false); // 错误页面有容器来处理，而不是SpringBoot
