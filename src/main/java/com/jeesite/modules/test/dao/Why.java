@@ -6,4 +6,7 @@ package com.jeesite.modules.test.dao;
  * @Description: <描述>
  */
 public interface Why {
+
+	public static main(String[] args){
+	}
 }
