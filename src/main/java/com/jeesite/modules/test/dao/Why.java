@@ -8,5 +8,6 @@ package com.jeesite.modules.test.dao;
 public interface Why {
 
 	public static main(String[] args){
+		System.out.println("冲突了！！！")
 	}
 }
