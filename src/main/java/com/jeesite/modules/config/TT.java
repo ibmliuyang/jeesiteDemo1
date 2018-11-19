@@ -6,4 +6,8 @@ package com.jeesite.modules.config;
  * @Description: <描述>
  */
 public class TT {
+    public static void main(String[] args){
+        System.out.println();
+    }
+
 }
