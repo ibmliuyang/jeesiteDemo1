@@ -8,13 +8,15 @@ package com.jeesite.modules.test.dao;
 public class  Why {
 
 	public static void  main(String[] args){
-		System.out.println("冲突了！！！");
-		System.out.println("冲突了！！！");
-		System.out.println("冲突了！！！");
-		System.out.println("冲突了！！！");
-		System.out.println("冲突了！！！");
-		System.out.println("冲突了！！！");
-		System.out.println("冲突了！！！");
+		System.out.println("测试冲突！！！");
+	System.out.println("测试冲突！！！");System.out.println("测试冲突！！！");System.out.println("测试冲突！！！");System.out.println("测试冲突！！！");
+	System.out.println("测试冲突！！！");
+	System.out.println("测试冲突！！！");
+	System.out.println("测试冲突！！！");
+	System.out.println("测试冲突！！！");
+	System.out.println("测试冲突！！！");
+	System.out.println("测试冲突！！！");
+	
 
 	}
 }
