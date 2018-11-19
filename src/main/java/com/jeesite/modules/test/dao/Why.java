@@ -15,6 +15,13 @@ public class  Why {
 		System.out.println("冲突了！！！");
 		System.out.println("冲突了！！！");
 		System.out.println("冲突了！！！");
+		System.out.println("冲突了！！！");
+		System.out.println("冲突了！！！");
+		System.out.println("冲突了！！！");
+		System.out.println("冲突了！！！");
+		System.out.println("冲突了！！！");
+
+
 
 	}
 }
