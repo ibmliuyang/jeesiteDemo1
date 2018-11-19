@@ -6,7 +6,4 @@ package com.jeesite.modules.test.dao;
  * @Description: <描述>
  */
 public interface Why {
-    public static void main(String[] args){
-        System.out.println("冲突了吗");
-    }
 }
